@@ -1,0 +1,6 @@
+numpy==1.22.4
+pandas==1.4.3
+pacmap==0.6.5
+scikit-learn==1.1.1
+scikit-plot==0.3.7
+plotly==5.9.0

@@ -1,0 +1,229 @@
+PURPOSE_CODE,CHAR_VALUE,CHAR_VALUE2
+STU1,Savers,LA TAKAFUL
+AD11,Savers,LA TAKAFUL
+AL70,Life,LA TAKAFUL
+ACE1,Payor/Waiver,LA TAKAFUL
+AT63,Savers,LA
+PS06,Life,LA
+AT41,Savers,LA
+AT43,Savers,LA
+BPTU,Savers,LA
+EE10,Payor/Waiver,LA
+MRB5,Medical,LA
+REN4,Medical,LA
+MRBC,Medical,LA TAKAFUL
+OPPB,Medical,LA TAKAFUL
+PMC2,Medical,LA TAKAFUL
+RNBB,Medical,LA TAKAFUL
+WMC1,Life,LA TAKAFUL
+208C,Life,LA
+5Y1C,Life,LA
+ACL5,Critical Illness,LA
+APAC,Critical Illness,LA
+L80C,Life,LA
+ELL1,Life,LA
+ACC5,Critical Illness,LA TAKAFUL
+DUMC,Payor/Waiver,LA
+PES5,Life,LA
+PES6,Life,LA
+PEW2,Payor/Waiver,LA
+65SW,Payor/Waiver,LA
+67PW,Payor/Waiver,LA
+75SW,Payor/Waiver,LA
+76CR,Critical Illness,LA
+APAT,Savers,LA
+BUGN,Life,LA
+OPA4,Medical,LA
+OPA5,Medical,LA
+ICUC,Income,LA TAKAFUL
+T51S,Life,LA TAKAFUL
+75DC,Disability,LA
+101C,Life,LA
+AD11,Accident,LA
+PCW1,Payor/Waiver,LA
+MEX7,Savers,LA TAKAFUL
+PTC4,Critical Illness,LA
+PW02,Payor/Waiver,LA
+RGT1,Savers,LA
+PS04,Life,LA
+BFTP,Disability,LA TAKAFUL
+CIAT,Savers,LA
+ICB6,Income,LA
+MRB4,Medical,LA
+ODB5,Income,LA
+ODB6,Income,LA
+PPFB,Life,LA
+REN6,Medical,LA
+WPC5,Payor/Waiver,LA
+1ES1,Savers,LA TAKAFUL
+ATB0,Disability,LA TAKAFUL
+DWE4,Payor/Waiver,LA TAKAFUL
+HIBB,Income,LA TAKAFUL
+M4TA,Medical,LA TAKAFUL
+RNBC,Medical,LA TAKAFUL
+TME8,Medical,LA TAKAFUL
+TMF1,Accident,LA TAKAFUL
+TMI1,Critical Illness,LA TAKAFUL
+5Y7C,Life,LA
+APT1,Life,LA
+ACI1,Life,LA
+ALI,Life,LA TAKAFUL
+AL80,Life,LA TAKAFUL
+ICI1,Critical Illness,LA
+AHT2,Savers,LA TAKAFUL
+AMD6,Medical,LA
+PS02,Life,LA
+AGS1,Endowment,LA
+62CR,Critical Illness,LA
+68PW,Payor/Waiver,LA
+73PW,Payor/Waiver,LA
+74CR,Critical Illness,LA
+APS5,Savers,LA
+AT47,Savers,LA
+ICB4,Income,LA
+PRW5,Payor/Waiver,LA
+UPG2,Endowment,LA
+CTD1,Life,LA TAKAFUL
+DWE6,Payor/Waiver,LA TAKAFUL
+M4SA,Medical,LA TAKAFUL
+M5DA,Medical,LA TAKAFUL
+M6SB,Medical,LA TAKAFUL
+M6UA,Medical,LA TAKAFUL
+OHIB,Income,LA TAKAFUL
+OHIC,Income,LA TAKAFUL
+OPPC,Medical,LA TAKAFUL
+SACC,Accident,LA TAKAFUL
+T11S,Life,LA TAKAFUL
+TMD1,Accident,LA TAKAFUL
+TPF2,Disability,LA
+5Y8C,Life,LA
+AD12,Savers,LA TAKAFUL
+AD12,Accident,LA
+PCW1,Life,LA TAKAFUL
+LSC1,Critical Illness,LA
+63TP,Disability,LA
+AMD7,Medical,LA
+PAY1,Payor/Waiver,LA TAKAFUL
+PDC2,Disability,LA
+PW04,Payor/Waiver,LA
+UPGA,Life,LA TAKAFUL
+BFRT,Life,LA TAKAFUL
+18WS,Savers,LA
+61WC,Payor/Waiver,LA
+65CR,Critical Illness,LA
+74SW,Payor/Waiver,LA
+ACTU,Savers,LA
+ADC7,Disability,LA
+DW73,Payor/Waiver,LA
+MRB6,Medical,LA
+TD18,Life,LA
+UGSA,Endowment,LA
+ADC4,Disability,LA TAKAFUL
+29VC,Life,LA
+AD10,Savers,LA TAKAFUL
+ACI1,Critical Illness,LA TAKAFUL
+AD10,Accident,LA
+CAP1,Payor/Waiver,LA
+ACE0,Payor/Waiver,LA TAKAFUL
+DUMA,Payor/Waiver,LA
+IMI1,Critical Illness,LA
+PMC1,Medical,LA TAKAFUL
+PSE1,Life,LA
+PSE2,Life,LA
+PTC3,Critical Illness,LA
+PW01,Payor/Waiver,LA
+RGT2,Savers,LA
+PS03,Life,LA
+BFLT,Life,LA TAKAFUL
+BFLP,Disability,LA TAKAFUL
+AMD3,Medical,LA
+BFAD,Accident,LA TAKAFUL
+AMD4,Medical,LA
+27VC,Life,LA
+66SW,Payor/Waiver,LA
+73SW,Payor/Waiver,LA
+AT42,Savers,LA
+AT44,Savers,LA
+AT48,Savers,LA
+AT57,Savers,LA
+AT58,Savers,LA
+BUGP,Life,LA
+DUM3,Medical,LA
+ICB5,Income,LA
+PSFB,Savers,LA
+REN5,Medical,LA
+WP1P,Payor/Waiver,LA
+WPP5,Payor/Waiver,LA
+5ES1,Savers,LA TAKAFUL
+CTD2,Life,LA TAKAFUL
+ICUB,Income,LA TAKAFUL
+M4UA,Medical,LA TAKAFUL
+M4UB,Medical,LA TAKAFUL
+UPC2,Endowment,LA TAKAFUL
+30VC,Life,LA
+PPC5,Payor/Waiver,LA
+APH1,Medical,LA
+107C,Life,LA
+207C,Life,LA
+L70C,Life,LA
+LPFC,Life,LA
+ADT5,Savers,LA TAKAFUL
+APHT,Medical,LA TAKAFUL
+PES2,Life,LA
+PW03,Payor/Waiver,LA
+APHN,Life,LA TAKAFUL
+PEH1,Savers,LA
+TSS1,Savers,LA TAKAFUL
+PS05,Life,LA
+P18P,Life,LA
+79PW,Payor/Waiver,LA
+ADC9,Life,LA
+AW73,Payor/Waiver,LA
+DW99,Payor/Waiver,LA
+HIO4,Medical,LA
+HIO5,Medical,LA
+OPA6,Medical,LA
+PRW6,Payor/Waiver,LA
+DWE3,Life,LA TAKAFUL
+DWE7,Payor/Waiver,LA TAKAFUL
+HIBC,Income,LA TAKAFUL
+M4TB,Medical,LA TAKAFUL
+M6TB,Medical,LA TAKAFUL
+MRBB,Medical,LA TAKAFUL
+TCI1,Critical Illness,LA TAKAFUL
+AT61,Savers,LA
+PYR5,Payor/Waiver,LA
+201C,Life,LA
+108C,Life,LA
+80PW,Payor/Waiver,LA
+ACL4,Critical Illness,LA
+APM8,Medical,LA
+PRW7,Payor/Waiver,LA
+ADC5,Disability,LA
+STU1,Life,LA
+APT1,Disability,LA TAKAFUL
+EPR1,Accident,LA TAKAFUL
+EPR1,Endowment,LA
+TPP2,Disability,LA
+APD3,Disability,LA TAKAFUL
+APSI,Savers,LA TAKAFUL
+DUMB,Payor/Waiver,LA
+HEJB,Life,LA TAKAFUL
+PES3,Life,LA
+PES4,Life,LA
+PTC2,Critical Illness,LA
+PPC,Accident,POLA
+AMD5,Medical,LA
+AT40,Savers,LA
+CTP7,Disability,LA
+HIO3,Medical,LA
+ODB4,Income,LA
+UPG1,Endowment,LA
+VTL3,Life,LA
+2ES1,Savers,LA TAKAFUL
+DWP1,Disability,LA TAKAFUL
+FUNE,Life,LA TAKAFUL
+T21S,Life,LA TAKAFUL
+77SW,Payor/Waiver,LA
+78CI,Critical Illness,LA
+ACL6,Critical Illness,LA
